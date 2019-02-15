@@ -1,4 +1,4 @@
-import test from "./test";
+// import test from "./test";
 
 console.log('----=-=-=-=-=-=----')
-export default test
+// export default test
